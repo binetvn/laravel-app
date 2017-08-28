@@ -3,7 +3,7 @@
     "description": "binet app-architecture for laravel",
     "type": "laravel-package",
     "require": {
-        "binetvn/php-app": "dev-master",
+        "binetvn/php-app": "dev-master"
     },
     "authors": [
         {
@@ -11,7 +11,6 @@
             "email": "congnv8192@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master", 
     "autoload": {
         "psr-4" : {
             "BiNet\\App\\" : "src/"
@@ -20,7 +19,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/binetvn/php-app",
+            "url": "https://github.com/binetvn/php-app"
         }
     ]
 }
