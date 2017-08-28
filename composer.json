@@ -1,0 +1,21 @@
+{
+    "name": "binet/pages",
+    "description": "binet app-architecture for laravel",
+    "type": "laravel-package",
+    "require": {
+        "binetvn/php-app": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "lbee",
+            "email": "congnv8192@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev-master", 
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/binetvn/php-app",
+        }
+    ]
+}
