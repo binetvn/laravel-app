@@ -1,9 +1,9 @@
 {
-    "name": "binet/pages",
+    "name": "binetvn/laravel-app",
     "description": "binet app-architecture for laravel",
     "type": "laravel-package",
     "require": {
-        "binetvn/php-app": "dev-master"
+        "binetvn/php-app": "dev-master",
     },
     "authors": [
         {
@@ -12,6 +12,11 @@
         }
     ],
     "minimum-stability": "dev-master", 
+    "autoload": {
+        "psr-4" : {
+            "BiNet\\App\\" : "src/"
+        }
+    },
     "repositories": [
         {
             "type": "vcs",
