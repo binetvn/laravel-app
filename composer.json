@@ -3,7 +3,8 @@
     "description": "binet app-architecture for laravel",
     "type": "laravel-package",
     "require": {
-        "binetvn/php-app": "dev-master"
+        "binetvn/php-app": "dev-master",
+        "guzzlehttp/guzzle": "~6.0"
     },
     "authors": [
         {

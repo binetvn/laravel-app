@@ -2,6 +2,8 @@
 
 namespace BiNet\Core\Repositories;
 
+use GuzzleHttp\Client;
+
 use BiNet\App\Repositories\Repository;
 
 abstract class ApiRepository extends Repository {
