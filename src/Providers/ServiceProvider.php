@@ -1,6 +1,6 @@
 <?php
 
-namespace BiNet\Core\ServiceProvider;
+namespace BiNet\Core\Providers\ServiceProvider;
 
 
 class BaseServiceProvider extends ServiceProvider

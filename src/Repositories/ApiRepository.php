@@ -12,6 +12,4 @@ class ApiRepository extends Repository {
 			'timeout'  => 2.0
 		]);
 	}
-
-
 }
