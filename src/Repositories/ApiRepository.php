@@ -4,7 +4,7 @@ namespace BiNet\Core\Repositories;
 
 use BiNet\App\Repositories\Repository;
 
-class ApiRepository extends Repository {
+abstract class ApiRepository extends Repository {
 	protected $client;
 	protected $baseUri;
 
