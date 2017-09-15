@@ -4,8 +4,7 @@
     "type": "laravel-package",
     "require": {
         "binetvn/php-app": "dev-master",
-        "guzzlehttp/guzzle": "~6.0",
-        "symfony/psr-http-message-bridge": "1.0.0"
+        "guzzlehttp/guzzle": "~6.0"    
     },
     "authors": [
         {
