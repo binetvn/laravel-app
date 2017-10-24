@@ -5,6 +5,11 @@
     "require": {
         "binetvn/php-app": "dev-master",
         "guzzlehttp/guzzle": "~6.0"
+
+
+
+
+        "binetvn/laravel-pages": "dev-master"
     },
     "authors": [
         {
